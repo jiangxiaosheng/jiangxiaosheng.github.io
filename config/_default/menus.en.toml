@@ -26,11 +26,13 @@
 [[main]]
   pre = "github"
   identifier = "github"
+  url = "https://github.com/jiangxiaosheng"
   weight = 1
 
 [[main]]
   pre = "envelope"
   identifier = "email"
+  url = "mailto:sj3129@columbia.edu"
   weight = 2
 
 [[main]]
