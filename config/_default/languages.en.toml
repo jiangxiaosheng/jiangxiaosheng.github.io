@@ -8,8 +8,8 @@ title = "Sheng Jiang"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/cuicon.png"
-  # secondaryLogo = "img/secondary-logo.png"
+#   logo = "img/cuicon-32x32.png"
+#   secondaryLogo = "img/cuicon-32x32.png"
   description = "Sheng Jiang's homepage"
   # copyright = "Copy, _right?_ :thinking_face:"
 

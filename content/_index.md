@@ -15,12 +15,15 @@ My research interests encompass the field of computer systems, with a specific f
 - New hardware for storage system: Resource disaggregation, Zoned storage, RDMA, SmartNIC
 - Systems for ML: Storage pipeline for data preprocessing, ML application scheduling/scaling
 
+### News
+- [03/2024] I'll be joining Carnegie Mellon University as a PhD student in the fall.
+
 ### Publications
 **RubbleDB: CPU-Efficient Replication with NVMe-oF** [[pdf]](https://www.usenix.org/system/files/atc23-li-haoyu.pdf) \
 Haoyu Li, <ins>Sheng Jiang</ins>, Chen Chen, Ashwini Raina, Xingyu Zhu, Changxu Luo, Asaf Cidon \
 USENIX Annual Technical Conference (ATC), 2023
 
-**BPF-oF: Storage Function Pushdown Over the Network** [[arxiv]](https://arxiv.org/pdf/2312.06808.pdf) (in submission) \
+**BPF-oF: Storage Function Pushdown Over the Network** [[arxiv]](https://arxiv.org/pdf/2312.06808.pdf) \
 Ioannis Zarkadas, Tal Zussman, Jeremy Carin, <ins>Sheng Jiang</ins>, Yuhong Zhong, Jonas Pfefferle, Hubertus Franke, Junfeng Yang, Kostis Kaffes, Ryan Stutsman, Asaf Cidon
 
 <!-- ### Education
