@@ -43,6 +43,11 @@ Software Engineer Intern &nbsp;&nbsp;&nbsp; 2020.6 - 2020.8 \
 **Tencent**, Shenzhen \
 Built tools to collect and analyse server metrics.
 
+### Awards
+Outstanding Undergraduate Thesis Award &nbsp;&nbsp;&nbsp; SCUT, 2021 \
+University Undergraduate Scholarship &nbsp;&nbsp;&nbsp; SCUT, 2019 & 2020 \
+China National Scholarship &nbsp;&nbsp;&nbsp; Ministry of Education, 2018
+
 
 <!-- ### Education
 
