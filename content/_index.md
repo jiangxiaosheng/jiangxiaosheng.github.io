@@ -8,15 +8,14 @@ I love doing system-level programming and building robust, performant, and large
 
 
 ### About me
-I'm a research assistant working on disaggregated NVMe storage with [Prof. Ming Liu](https://pages.cs.wisc.edu/~mgliu/) at the [University of Wisconsin-Madison](https://www.wisc.edu/).  I received my M.S. degree in CS from [Columbia University](https://www.cs.columbia.edu/) in May 2023, where I was honored to be advised by [Prof. Asaf Cidon](https://www.asafcidon.com/). I earned my B.Eng. degree in CS from the [South China University of Technology](https://www.scut.edu.cn/en/) in June 2021.
+I'm a PhD student in ECE at Carnegie Mellon University, working with [George Amvrosiadis](https://users.ece.cmu.edu/~gamvrosi/). I'm also a member of the [Parallel Data Lab](https://www.pdl.cmu.edu/index.shtml).
 
-My research interests encompass the field of computer systems, with a specific focus on the following areas:
-- Operating System: Memory subsystem, networking and storage stack, CXL, eBPF
-- New hardware for storage system: Resource disaggregation, Zoned storage, RDMA, SmartNIC
-- Systems for ML: Storage pipeline for data preprocessing, ML application scheduling/scaling
+I worked on disaggregated NVMe storage with [Ming Liu](https://pages.cs.wisc.edu/~mgliu/) at the [University of Wisconsin-Madison](https://www.wisc.edu/) during 2023 to 2024. Before that, I received my M.S. degree in CS from [Columbia University](https://www.cs.columbia.edu/) in May 2023, where I was advised by [Asaf Cidon](https://www.asafcidon.com/). I earned my B.Eng. degree in CS from the [South China University of Technology](https://www.scut.edu.cn/en/) in June 2021.
+
+My research interests mainly include storage systems, networked systems, and distributed computing.
 
 ### News
-- [03/2024] I'll be joining Carnegie Mellon University as a PhD student in the fall.
+- [08/2024] I started my PhD at Carnegie Mellon University.
 
 ### Publications
 **RubbleDB: CPU-Efficient Replication with NVMe-oF** [[pdf]](https://www.usenix.org/system/files/atc23-li-haoyu.pdf) \
@@ -25,6 +24,25 @@ USENIX Annual Technical Conference (ATC), 2023
 
 **BPF-oF: Storage Function Pushdown Over the Network** [[arxiv]](https://arxiv.org/pdf/2312.06808.pdf) \
 Ioannis Zarkadas, Tal Zussman, Jeremy Carin, <ins>Sheng Jiang</ins>, Yuhong Zhong, Jonas Pfefferle, Hubertus Franke, Junfeng Yang, Kostis Kaffes, Ryan Stutsman, Asaf Cidon
+
+
+### Work experience
+<!-- <div style="margin: 0; padding: 0;">
+  <p style="display: flex; justify-content: space-between; margin: 0;">
+    <span>Software Engineer Intern</span>
+    <span>May 2022 to Aug 2022</span>
+  </p>
+  <p style="margin: 0;"><strong>TuSimple</strong></p>
+</div> -->
+
+Software Engineer Intern &nbsp;&nbsp;&nbsp; 2022.5 - 2022.8 \
+**TuSimple**, San Diego \
+Research on network stack kernel bypassing.
+
+Software Engineer Intern &nbsp;&nbsp;&nbsp; 2020.6 - 2020.8 \
+**Tencent**, Shenzhen \
+Built tools to collect and analyse server metrics.
+
 
 <!-- ### Education
 
