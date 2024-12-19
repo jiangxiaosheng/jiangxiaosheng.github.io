@@ -8,11 +8,11 @@ I love doing system-level programming and building robust, performant, and large
 
 
 ### About me
-I'm a PhD student in ECE at Carnegie Mellon University, working with [George Amvrosiadis](https://users.ece.cmu.edu/~gamvrosi/). I'm also a member of the [Parallel Data Lab](https://www.pdl.cmu.edu/index.shtml).
+I'm a PhD student in ECE at Carnegie Mellon University, working with George Amvrosiadis. I'm also a member of the [Parallel Data Lab](https://www.pdl.cmu.edu/index.shtml).
 
-I worked on disaggregated NVMe storage with [Ming Liu](https://pages.cs.wisc.edu/~mgliu/) at the [University of Wisconsin-Madison](https://www.wisc.edu/) during 2023 to 2024. Before that, I received my M.S. degree in CS from [Columbia University](https://www.cs.columbia.edu/) in May 2023, where I was advised by [Asaf Cidon](https://www.asafcidon.com/). I earned my B.Eng. degree in CS from the [South China University of Technology](https://www.scut.edu.cn/en/) in June 2021.
+I worked on disaggregated NVMe storage with Ming Liu at the University of Wisconsin-Madison during 2023 to 2024. Before that, I received my M.S. degree in CS from Columbia University in May 2023, where I was advised by Asaf Cidon. I earned my B.Eng. degree in CS from the South China University of Technology in June 2021.
 
-My research interests mainly include storage systems, networked systems, and distributed computing.
+My research interests mainly include storage systems, networked systems, and distributed computing. I'm also interested in CXL and eBPF.
 
 ### News
 - [12/2024] Flint (work before joining CMU) gets accepted to NSDI '25.
@@ -49,7 +49,7 @@ Built tools to collect and analyse server metrics.
 
 ### Awards
 Outstanding Undergraduate Thesis Award &nbsp;&nbsp;&nbsp; SCUT, 2021 \
-University Undergraduate Scholarship &nbsp;&nbsp;&nbsp; SCUT, 2019 & 2020 \
+SCUT University Scholarship &nbsp;&nbsp;&nbsp; SCUT, 2019 & 2020 \
 China National Scholarship &nbsp;&nbsp;&nbsp; Ministry of Education, 2018
 
 

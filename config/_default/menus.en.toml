@@ -32,7 +32,7 @@
 [[main]]
   pre = "envelope"
   identifier = "email"
-  url = "mailto:sj3129@columbia.edu"
+  url = "mailto:shengjiang@cmu.edu"
   weight = 2
 
 [[main]]
