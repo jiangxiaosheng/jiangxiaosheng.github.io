@@ -15,16 +15,20 @@ I worked on disaggregated NVMe storage with [Ming Liu](https://pages.cs.wisc.edu
 My research interests mainly include storage systems, networked systems, and distributed computing.
 
 ### News
+- [12/2024] Flint (work before joining CMU) gets accepted to NSDI '25.
 - [08/2024] I started my PhD at Carnegie Mellon University.
 
 ### Publications
+**Building an Elastic Block Storage over EBOFs Using Shadow Views** \
+<ins>Sheng Jiang</ins>, Ming Liu \
+USENIX Symposium on Networked Systems Design and Implementation (NSDI), 2025
+
+**BPF-oF: Storage Function Pushdown Over the Network** [[arXiv]](https://arxiv.org/pdf/2312.06808.pdf) \
+Ioannis Zarkadas, Tal Zussman, Jeremy Carin, <ins>Sheng Jiang</ins>, Yuhong Zhong, Jonas Pfefferle, Hubertus Franke, Junfeng Yang, Kostis Kaffes, Ryan Stutsman, Asaf Cidon
+
 **RubbleDB: CPU-Efficient Replication with NVMe-oF** [[pdf]](https://www.usenix.org/system/files/atc23-li-haoyu.pdf) \
 Haoyu Li, <ins>Sheng Jiang</ins>, Chen Chen, Ashwini Raina, Xingyu Zhu, Changxu Luo, Asaf Cidon \
 USENIX Annual Technical Conference (ATC), 2023
-
-**BPF-oF: Storage Function Pushdown Over the Network** [[arxiv]](https://arxiv.org/pdf/2312.06808.pdf) \
-Ioannis Zarkadas, Tal Zussman, Jeremy Carin, <ins>Sheng Jiang</ins>, Yuhong Zhong, Jonas Pfefferle, Hubertus Franke, Junfeng Yang, Kostis Kaffes, Ryan Stutsman, Asaf Cidon
-
 
 ### Work experience
 <!-- <div style="margin: 0; padding: 0;">

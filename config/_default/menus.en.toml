@@ -36,9 +36,9 @@
   weight = 2
 
 [[main]]
-  name = "Resume"
+  name = "CV"
   weight = 40
-  url = "https://drive.google.com/file/d/1gB6I0F_eQ1-46oXMApXuxRkKXKJFgCw1/view?usp=sharing"
+  url = "https://drive.google.com/file/d/1MUY6LTbOWBvM9XRsczY8PBIWSM7tV9wA/view?usp=sharing"
 
 # [[main]]
 #   name = "Contact"
