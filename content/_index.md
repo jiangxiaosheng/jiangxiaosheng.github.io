@@ -19,7 +19,7 @@ My research interests mainly include storage systems, networked systems, and dis
 - [08/2024] I started my PhD at Carnegie Mellon University.
 
 ### Publications
-**Building an Elastic Block Storage over EBOFs Using Shadow Views** \
+**Building an Elastic Block Storage over EBOFs Using Shadow Views** [[pdf]](https://www.usenix.org/system/files/nsdi25-jiang.pdf) \
 <ins>Sheng Jiang</ins>, Ming Liu \
 USENIX Symposium on Networked Systems Design and Implementation (NSDI), 2025
 
@@ -48,6 +48,7 @@ Software Engineer Intern &nbsp;&nbsp;&nbsp; 2020.6 - 2020.8 \
 Built tools to collect and analyse server metrics.
 
 ### Awards
+Carnegie Institute of Technology Dean's Fellowship &nbsp;&nbsp;&nbsp; CMU, 2024 \
 Outstanding Undergraduate Thesis Award &nbsp;&nbsp;&nbsp; SCUT, 2021 \
 SCUT University Scholarship &nbsp;&nbsp;&nbsp; SCUT, 2019 & 2020 \
 China National Scholarship &nbsp;&nbsp;&nbsp; Ministry of Education, 2018
